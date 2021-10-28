@@ -1,0 +1,55 @@
+<songs>
+  <song name="kottonmouthkings-restofmylife">
+    <title>RESTOFMYLIF</title>
+    <source>nada</source>
+    <rhythm>x..o..x......o.x..o.x....xo...o..x.....o..x..ox.....xo..o..x......o.x....x....xo...o..x......o.x..ox.....xo..o...x.....o..x..ox.....xo..o..x......o.x..o.x....xo...o..x......o.x..ox.....xo..o...x....xo.x...ox.xx.x.</rhythm>
+    <buildup>buildup-restofmylife</buildup>
+    <cmt_buildupLength>19200</cmt_buildupLength>
+  </song>
+  <song name="juicyj-smokinrollin">
+    <title>SMOKINGROLLIN</title>
+    <source>nada</source>
+    <rhythm>o..ox..o...oo..xo...o..o.x.o...oo..xo...o..o.x.o...oo..xo...o..o.x.o...oo..xo...</rhythm>
+    <buildup>buildup-smokinrollin</buildup>
+    <cmt_buildupLength>11456</cmt_buildupLength>
+  </song>
+  <song name="kottonmouthkings-holditin">
+    <title>HOLDITIN</title>
+    <source>nada</source>
+    <rhythm>o......x.....ooo.......x.......o......x.....ooo.......x...o...o.......x.....ooo......x.......o.......x.....ooo.......x...o...o......x.....ooo.......x.......o.......x....ooo.......x...o...o.......x.....ooo.......x......o.......x.....ooo-------x---o---</rhythm>
+    <buildup>buildup-holditin</buildup>
+    <cmt_buildupLength>38656</cmt_buildupLength>
+  </song>
+  <song name="kcamp-goodweedbadbtch">
+    <title>GOODWEED BAD BIATHC</title>
+    <source>nada</source>
+    <rhythm>o..ox....oo.x...o..ox....oo.x...o..ox.....o.x......ox....oo.x...</rhythm>
+    <buildup>buildup-goodweedbadbtch</buildup>
+  </song>
+  <song name="kottonmouthkings-4-2-0">
+    <title>#420FGT</title>
+    <source>nada</source>
+    <rhythm>o...x...o...x.o.o...x...o...x.o.o...x...o...x.o.o...x...o...x.o.o...x...o...x.o.o...x....o...x.o.o..x....o...x.o.o...o...o...x...o...x...o...x.o.o...x...o....x.o.o..x...o...x.o.o....x..o....x.o.o...x...o...x.o.o...x...o....x.o.o..x...o...x.o.o...o...o...o....</rhythm>
+    <buildup>buildup-4-2-0</buildup>
+    <cmt_buildupLength>475466</cmt_buildupLength>
+  </song>
+  <song name="becauseigothigh">
+    <title>BECUZ I GOT HI</title>
+    <source>nada</source>
+    <rhythm>x.....x...oo.....x.....o....x....oo..o..xoo..o.....x...oo.....x.....o....x....oo..o..xoo..o.....x...oo.....x.....o....x....oo..o..xoo..o.....x...oo.....x.....o....x...o.o..o..xoo..x.....x...oo.....x.....o....x...o.o..o..xoo..o.....x...oo.....x.....o....x...o.o..o..xoo..o.....x...oo.....x.....o....x...o.o..o..xoo..o.....x...oo.....x.....o.o..x.ooo.o..o.x.oo..</rhythm>
+    <buildup>buildup-becauseigothigh</buildup>
+    <cmt_buildupLength>67997</cmt_buildupLength>
+  </song>
+  <song name="Smokeweedeveryday">
+    <title>SMOKEWEED</title>
+    <source>nada</source>
+    <rhythm>o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o....................................</rhythm>
+    <buildup>buildup_smokeweed</buildup>
+  </song>
+  <song name="Kritikal_GreenPurple">
+    <title>GREENPURPLE</title>
+    <source>nada</source>
+    <rhythm>o....-....x.....o..o....o..o.....x....-..-.o.....-....x.....o..o....o..o.....x.o........o....-....x.....o..o....o..o.....x.....----.o..........x.......o..o.o..o.....x.o........o....-.....x....o..o....o..o....x.....-..-..o.........x.....o..o....o..o.....x.o........o....-.....x....o..o....o..o.....x.....----.o....-.....x.......o..o.o..o....x..o........</rhythm>
+    <buildup>buildup_GreenPurple</buildup>
+  </song>
+</songs>

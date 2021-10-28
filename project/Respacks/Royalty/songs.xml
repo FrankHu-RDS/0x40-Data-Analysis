@@ -1,0 +1,44 @@
+<songs>
+  <song name="loop_UntrustUs">
+    <title>Crystal Castles - Untrust Us</title>
+    <source>https://www.youtube.com/watch?v=oDHAEME84Og</source>
+    <rhythm>o.:.x...o.:.x.:.o.:.x...o.:.x.:.o.:.x...o.:.x.:.o.:.x...o.:.x.:.o.:.x...o.:.x.:.o.:.x...o.:.x.:.o.:.x...o.:.x.:.o.:.x...o.:.x.:.o.:.x...o.:.x.:.o.:.x...o.:.x.:.o.:.x...o.:.x.:.o.:.x...o.:.x.:.o.:.x...o.:.x.:.o.:.x...o.:.x.:.o.:.x...o.:.x.:.o.:.x...o.:.x.:.</rhythm>
+    <buildup>build_UntrustUs</buildup>
+    <buildupRhythm>|...o...o.:.o.:.o.:.o...o.:.o.:.o.:.o...o.:.o.:...:...:...:...:.</buildupRhythm>
+  </song>
+  <song name="loop_AlicePractice">
+    <title>Crystal Castles - Alice Practice</title>
+    <source>https://www.youtube.com/watch?v=TxBXaMQP2Kg</source>
+    <rhythm>o.....:.x.....:.o...o...x...o....:..o...x.......o...o...x.......o.+.x.+.x.+.x..:o...o...x...o.......o...x.......o...o...x.......o.....:.x.....:.o...o...x...o....:..o...x.......o...o...x.......o.+.x.+.x.+.x..:o...o...x...o.......o...x.......o...o...x.......</rhythm>
+    <buildup>build_AlicePractice</buildup>
+    <buildupRhythm>o........o..o..x...o.........o..x.......o..o...x........</buildupRhythm>
+  </song>
+  <song name="loop_Crimewave">
+    <title>Crystal Castles - Crimewave (Crystal Castles Vs Health)</title>
+    <source>https://www.youtube.com/watch?v=ayc4Nv1fnZY</source>
+    <rhythm>|.----------.-:..-----------.-:.:.--.----.--.-:..-----------.-:.|.----------.-:..-----------.-:.:.--.----.--.-:..-------|---.-:.</rhythm>
+    <buildup>build_Crimewave</buildup>
+    <buildupRhythm>o.::x.:.o.::x.::o.::x.:.</buildupRhythm>
+  </song>
+  <song name="loop_MagicSpells">
+    <title>Crystal Castles - Magic Spells</title>
+    <source>https://www.youtube.com/watch?v=fUTJa00puDU</source>
+    <rhythm>o.:.x.:.o.:.x.:.o:::x:::o:::x:::o.:.x.:.o.:.x.:.o:-:x:-:o:-:x:-:</rhythm>
+    <buildup>build_MagicSpells</buildup>
+    <buildupRhythm>..:...:...:...:...</buildupRhythm>
+  </song>
+  <song name="loop_XXZXCUZXMe">
+    <title>Crystal Castles - XXZXCUZX Me</title>
+    <source>https://www.youtube.com/watch?v=mSIzybHQtNw</source>
+    <rhythm>o.:.o.:.o.|.o.:.o...o...o.:+.|||o.:.o.:.o.|.o.:.o...o...o.:+.|||</rhythm>
+    <buildup>build_XXZXCUZXMe</buildup>
+    <buildupRhythm>-...||||</buildupRhythm>
+  </song>
+  <song name="loop_AirWar">
+    <title>Crystal Castles - Air War</title>
+    <source>https://www.youtube.com/watch?v=2dK3Tzf8KwA</source>
+    <rhythm>o.:.x.:.:...x.||o.:.x.:.:...x.||o.:.x.:.:...x.||o.:.x.:.:...x.||o.:.x.:.o.:.x.||o.:.x.:.o...x.||o.:.x.:.o...x.||o.:.x.:.o...x.||</rhythm>
+    <buildup>build_AirWar</buildup>
+    <buildupRhythm>o..:.:.:.:...:.||o.:.:.:.:...:.||o.:.:.:.:...:.||o..:.:.:.:..:.||</buildupRhythm>
+  </song>
+</songs>

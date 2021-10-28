@@ -1,0 +1,68 @@
+<songs>
+  <song name="KOANSound_80sFitness">
+    <title>KOAN Sound - 80's Fitness</title>
+	<source>http://www.youtube.com/watch?v=Hk_GPcYfLeQ</source>
+    <rhythm>o.......x.......o.......x.......o.......x.......o.......x...+...o.......x.......o.......x.......o.......-|-|-|-|o.....-.x...+...o.......x.......o.......x.......o.......x.......o.......x...+...o.......x.......o.......x.......o.-:-:-:-:-:-:-:o.+.....x...o...o.......x.:::.:.o.:...:.x.:.:...o.....:.x.:.:.:.o...:...x.:...:.o.......x.:::.:.o.:...:.x.:.:...o.......-|-|-|-|o.......x...+...o.......x.:::.:.o.:...:.x.:.:...o.....:.x.:.:.:.o...:...x.:...:.o.......x.:::.:.o.:...:.x.:.:...*...:...*...:...*...:...*.......</rhythm>
+    <buildup>KOANSound_80sFitness_build</buildup>
+    <buildupRhythm>o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o.x.o.x.o.x.o.x.o.x.o.x.o.x.o.x.x...:..:x...:..:x...:..:x...o.+..</buildupRhythm>
+  </song>
+  <song name="PorterRobinson_Divinity">
+    <title>Porter Robinson - Divinity</title>
+	<source>http://www.youtube.com/watch?v=si81bIoZRJQ</source>
+    <rhythm>o...:...x.:.:.o...:.:.:.x.:.:.:.o...:...x.:.:.o...:.:.:.x...::::o...:...x.:.:.o...:.:.:.x.:.:.:.o...o...x...o.o...o.o.:.x.......o...:...x.:.:.o...:.:.:.x.:.:.:.o...:...x.:.:.o...:.:.:.x...::::o...:...x.:.:.o...:.:.:.x.:.:.:.o...:...x.:.:.o...:.:.:.x+......o...:...x.:.:.o...:.:.:.x*-.-*-.o...:...x.:.:.o...:.o.:.x...::::o...:...x.:.:.o...:.:.:.x*-.-*-.o...o...-------------.-.x...-.-.o...:...x.:.:.o...:.:.:.x*-.-*-.o...:...x.:.:.o...:.:.:.x...::::o...:...x.:.:.o...:.:.:.x.:.:.:.o...:.....:.:...---.---.-----+..</rhythm>
+    <buildup>PorterRobinson_Divinity_build</buildup>
+    <buildupRhythm>x...:.....:.:.x...:.:.:...:.:.:.x...:.....:.:.x...:.:.:.....::::x...:.....:.:.x...:.:.:...:.:.:.x...:.....:.:.x...:.:.:.....::::x...:.....:.:.x...:.:.:...:.:.:.x...:.....:.:.x...:.:.:.....::::x...:.....:.:.x...:.:.:...:.:.:.x...:.....:.:.x...:.:.:..........</buildupRhythm>
+  </song>
+  <song name="PorterRobinson_NaturalLight">
+    <title>Porter Robinson - Natural Light</title>
+	<source>http://www.youtube.com/watch?v=l2YIZOE2GjQ</source>
+    <rhythm>x.+.o.+.x.+.o.+.x.+.o.+.x.+.o.--x.+.o.+.x.+.o...x.+.o.+.x.....--x:+.o.+.x.+.o.+.x.+.o.+.x.*.*+..x.+.o.+.x.+.o.+.x.+.o...*.-.*.:.x...o.x.o...:...o...x.o.x.:.o.x.o...:...:...o.x.o...:...+.......x.:.o...x.*.*.:.x.:.o.:.x*:ooox.x.:.o...x.*.o.:.x.:.o.:.x.+.....</rhythm>
+    <buildup>PorterRobinson_NaturalLight_build</buildup>
+    <buildupRhythm>.x...o...x...o...x...o...x...ox..x...o...x...o...x...-...+.....x-</buildupRhythm>
+  </song>
+  <song name="FurukawaP_GoodMorningEMMASympsonMuuchoRemix">
+    <title>FurukawaP - Good Morning EMMA Sympson (Mu~cho Remix)</title>
+	<source>https://www.youtube.com/watch?v=s1q1gkxrQgE</source>
+    <rhythm>x.:.o.x...xxo.:.x.:.o.x...xxoxxxx.:.o.x...xxo.:.x.:.oxxoxxoxxxx.x.:.o.x...xxo.:.x.:.o.x...xxoxxxx.:.o.x...xxo.:.x.:.oxxoxxoxxxx.x.:.o.x...xxo.:.x.:.o.x...xxoxxxx.:.o.x...xxo.:.x.:.oxxoxxoxxxx.x.:.o.x...xxo.:.x.:.o.x...xxoxxxx.:.o.x...xxo.:.+...........o...</rhythm>
+    <buildup>FurukawaP_GoodMorningEMMASympsonMuuchoRemix_build</buildup>
+    <buildupRhythm>x.:.-.-...---.:.x.:.-.-...------x.:.-.-...---.:.x.:.-----------.x.:.-.-...---.:.x.:.-.-...------x.:.-.-...---.:.x.:.-----------.</buildupRhythm>
+  </song>
+  <song name="150P_Kazehana">
+    <title>150P - Kazehana</title>
+	<source>https://www.youtube.com/watch?v=VsOpKUabC98</source>
+    <rhythm>o.......x.....x.:...:.......x.......x...........x.......x.x.x.x.o.......x.....x.:...:.......x.......x...xxxxxxxxx.:...:.x.x.x.x.o.......x.....x.:...:.......x.......x...........x.......x.x.x.x.o.......x.....x.:...:.......x..x....x.......x.:.x.:.x.:.x.:.x.:.</rhythm>
+    <buildup>150P_Kazehana_build</buildup>
+    <buildupRhythm>x...............................................................x.......................................................-.-.-.-.-....................................-.....-...-...-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.....................-.-.-.-.-..............................................................</buildupRhythm>
+  </song>
+  <song name="ACloudForClimbing_Moontied">
+    <title>A Cloud for Climbing - Moontied</title>
+	<source>https://www.youtube.com/watch?v=vmOzokpJi1E</source>
+    <rhythm>o:::x:::o:::x:::o:::x:::o:::x:::o:::x:::o:::x:::o:::x:::o:::x:::o:::x:::o:::x:::o:::x:::o:::x:::o:::x:::o:::x:::o:::x:::o:::x:::</rhythm>
+  </song>
+  <song name="Nhato_DelayOrder">
+    <title>Nhato - Delay Order</title>
+	<source>https://www.youtube.com/watch?v=FuwAPxMgQYo</source>
+    <rhythm>o:::::::::+.....x.......‑...‑...‑...‑...o...‑...x...............o.|.|.|.|.|.|.|.x.|.|.|.|.|.|.o.|.|.o.|.|.o.|.|.x.:.:.x.:.:.x.:.o:::::::::+.....x.....‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑o‑‑‑‑‑‑‑x...............o.|.|.|.|.|.|.|.x.|.|.|.|.|.|.o.|.|.o.|.|.o.|.|.x.:.:.x.:.:.x.:.o000000000+.....x.......‑...‑...‑...‑...o...‑...x...............o.|.|.|.|.|.|.|.x.|.|.|.|.|.|.o.|.|.o.|.|.o.|.|.x.:.:.x.:.:.x.:.o:::::::::+.....x.....‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑‑o‑‑‑‑‑‑‑x...............o.|.|.|.|.|.|.|.x.|.|.|.|.|.|.o.|.|.o.|.|.o.|.|.x.:.:.x.:.:.x.:.</rhythm>
+    <buildup>Nhato_DelayOrder_build</buildup>
+    <buildupRhythm>+............................................................................................................................................................................................................................................................................................................................................................</buildupRhythm>
+  </song>
+  <song name="Camellia_Ring">
+    <title>Camellia - Ring</title>
+	<source>https://www.youtube.com/watch?v=WGUYfhqCgug</source>
+    <rhythm>o...::::x...-.-.-.-.-.-.x.o.-+..o.......x.......o:::::oox:o:::::o...::::x...+...o.-.-...x.o.-+..o.......x.||||||o.....oox.o.....</rhythm>
+    <buildup>Camellia_Ring_build</buildup>
+    <buildupRhythm>o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o.o.o.o.o.o.o.o.o.o.o.o.o.o.o.o.o.o.o.o.o.o.o.o.oooooooooo+......</buildupRhythm>
+  </song>
+  <song name="Rin_RigidParadiseJericoRemix">
+    <title>Rin - Rigid Paradise (Jerico Remix)</title>
+	<source>https://www.youtube.com/watch?v=nP6PtZbOtpA</source>
+    <rhythm>o...:...x...:...o...:...x...:...o...:...x...:...o...:...o.o.o.o.o...:...x...:...o...:...x...:...o...:...x...:...o...:.:.+.......o...:...x...:...o...:...x...:...o...:...x...:...o...:...o.o.o.o.o...:...x...:...o...:...x...:...o...oooo+...:...o.-.-.-.+.......</rhythm>
+  </song>
+  <song name="Rin_SpiritOfAvarice">
+    <title>Rin - Spirit of Avarice</title>
+	<source>https://www.youtube.com/watch?v=Knj5iSuOVE0</source>
+    <rhythm>o...............x.......+.......o.....o.....o...x...............o...............x...-...-.-.-.-.o.......-...:.:.x.......*..+....o.......x.+.....x.......|.|.|.|.o.....o.....o...x...............o.......-.......x..o..o..o...o..x..o..o..o...o..x|-|-|-|-|-+....</rhythm>
+    <buildup>Rin_SpiritOfAvarice_build</buildup>
+    <buildupRhythm>o...........o...x...............o.....o.....o.....x.............o...........o...x...............o.....o.....o.o...x.............o...........o...x...............:.....o.....o.....x.............o...........o...x................................................</buildupRhythm>
+  </song>
+</songs>

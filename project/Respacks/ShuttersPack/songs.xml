@@ -1,0 +1,19 @@
+﻿<songs>
+  <song name="Smilecythe - Kuolleiden Ystavaava">
+    <title>Smilecythe - Kuolleiden Ystavaava</title>
+	<source>http://waa.ai/4okS</source>
+    <rhythm>o.::..:.....:.:.:.x.x.x...x.x...o.::..:.....:.:.:.x.x.x...x.x...o.::..:.....:.:.:.x.x.x...x.x...o.:::.xxxxxxx.x.o.xxx.o.:.:.oxxx</rhythm>
+  </song>
+  <song name="Autechre - C_Pach">
+    <title>Autechre - C_Pach</title>
+	<source>http://www.youtube.com/watch?v=AF4ZXP4utVA</source>
+    <rhythm>...:.:.x.....:.:.x.....:.:.x.....:.:.x.....:.:.x.....:.:.x.....:.:.x.....:.:.x.....:.:.x.....:.:.x.....:.:.x.....:.:.x..</rhythm>
+  </song>
+  <song name="LxCxDxT_Loop">
+    <title>sHimaU - LxCxDxT</title>
+	<source>http://www.youtube.com/watch?v=7tXkf-FryJU</source>
+    <rhythm>.x.......x.......x.......x.......x.......x.......x.......x.......x.......x.......x.......x.......x.......x..:..:.x.......x......</rhythm>
+    <buildup>LxCxDxT_Build</buildup>
+    <buildupRhythm>.....................................x.......x.......x.......x.......x.......x.......x.......x.......x.......x.......x.......x...:.:.:.:.:.:.:.:.:.:.x......x.......</buildupRhythm>
+  </song>
+</songs>

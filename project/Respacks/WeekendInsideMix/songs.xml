@@ -1,0 +1,86 @@
+<songs>
+
+	<song name="Still in the Rain">
+	<title>kyu - Still in the Rain</title>
+	<source>http://www.youtube.com/watch?v=Vw77FnXeWTo</source>
+	<rhythm>o...x.....o.x...o.:.x.:.:.o.x.-.o.:.x.:.:.o.x...o...x.o...o.x.-.o.:.x.:.:.o.x.:.o.:.x.:.:.o.x.-.o...x.....o.x...o...:.......+...o...x.....o.x...o.:.x.:.:.o.x.-.o.:.x.:.:.o.x...o...x.o...o.x.-.o.-.x.-.:.o.x.:.o.:.x.:.:.o.x.-.o...x.....o.x...o...:.......:...=...........=...................=...........=...............+...o...x.....o.x...o...x.....o.x.-.o...x.....o.x...o...x.o...o.x.-.o...x.....o.x...o...x.....o.x.-.o.||||||||||||||*...*...*...+...</rhythm>
+	<buildup>Still in the Rain buildup</buildup>
+	<buildupRhythm>........+...............|.+.....</buildupRhythm>
+	</song>
+	
+	<song name="storyofenvy_loop">
+		<title>K-391 - Story of Envy</title>
+		<source>https://soundcloud.com/k-391/story-of-env-2012</source>
+		<rhythm>x..:..o..:..x..:.-o.-:.-x..:..o..:..x..-.-..-:.-x..:..o..:..x..:..o.-:.-x..:..o..-.-x..-.-o..-..x..:..o..:..x..:.-o.-:.-x..:..o..:..x..-.-..-:.-x..:..o..:..x..:..o.-:.-x..:..o..-.-x..-.-o..-..x..:..o..:..x..:.-o.-:.-x..:..o..:..x..-.-..-:.-x..:..o..:..x..:..o.-:.-x..:..o..-.-x..-.-o..-..x..:..o..:..x..:.-o.-:.-x..:..o..:..x..-.-..-:.-x..:..o..:..x..:..o.-:.-x..:..o..-.-x..-.-o..-..</rhythm>
+		<buildup>storyofenvy_buildup</buildup>
+		<buildupRhythm>-------------------|||||+.......................</buildupRhythm>
+	</song>
+  
+  <song name="loop_ViftaMedHanderna">
+    <title>Basshunter - Vifta med handerna</title>
+	<source>https://www.youtube.com/watch?v=extvOGHhaBc</source>
+    <rhythm>o::.x...o::.x...o::.x...o::.x...o::.x...o::.x...o::.x...o::.x...</rhythm>
+    <buildup>build_ViftaMedHanderna</buildup>
+    <buildupRhythm>x...............o...o...o.o.xxooo::.x...</buildupRhythm>
+  </song>
+	
+	<song name="loop_WarriorConcerto">
+    <title>Glitch Mob - Warrior Concerto</title>
+	<source>http://www.youtube.com/watch?v=-lszdEZ0-74</source>
+    <rhythm>o.......x.......o.......x...o...........x.......o.:.:.:ox...o...o.......x.......o.......x...o...........x.......o.......x-----..o.......x.......o...x+..x+..x+..........x.......o.:.:.:ox...o...o......ox...............x...o...........x.......o.o...|-|-|-|.-.</rhythm>
+    <buildup>build_WarriorConcerto</buildup>
+    <buildupRhythm>----.-.:.-.:.-:.:.-.:.:.-.+.........</buildupRhythm>
+  </song>
+  
+  <song name="Porter Robinson - Unison (Knife Party Remix)_Loop">
+    <title>Porter Robinson - Unison (Knife Party Remix)</title>
+	<source>https://www.youtube.com/watch?v=A2GSyQBdeEQ</source>
+    <rhythm>o.......x.:.*...:.*...o.x.o.*...o.......x.......o.:.....x.:.....o.......x.:.*...:.*...o.x.o.*...o...:...*.:...:.+...............o.......+.......o.*...o.x.o.*...o.....*:+.......o.:.....x.:.....o.......+.......o.*...o.x.o.*...o...:...*.:...:.+........|||||||o.......x.:.*...:.*...o.x.o.*...o.......x.......o.:.....x.:.....o.......x.:.*...:.*...o.x.o.*...o...:...*.:...:.+...............o.......+.......o.*...o.x.o.*...o.....*:+.......o.:.....x.:.....o.......+.......o.*...o.x.o.*...o...:...*.:...:.+........|||||||o.......x.:.x+....x+....x.o.*...+.......x.......o.:.....x.:.....o.......x.:.x+....x+....x.o.*...o.o.x+....x+....o.:.:.:.x.+.x.+.o.......+.......o.*...o.x.o.*...o.....*:+...x...o.:.....x.:.....o.......+.......o.*...o.x.o.*...o...:...*.:...:.|||o.|||o.||||||o.......x.:.x+....x+....x.o.*...+.......x.......o.:.....x.:.....o.......x.:.x+....x+....x.o.*...o.o.x+....x+....o.:.:.:.x.+.x.+.o.......+.......o.*...o.x.o.*...o.....*:+...x...o.:.....x.:.....o.......+.......o.*...o.x.o.*...o+..o+....x+..x+................</rhythm>
+    <buildup>Porter Robinson - Unison (Knife Party Remix)_Build</buildup>
+    <buildupRhythm>+...............</buildupRhythm>
+  </song>
+
+	<song name="iotokinasai">
+	<title>Makura - iotokinasai</title>
+	<rhythm>x...............o.......o.......x.......x.......o.....x.o.o.x...o...........x...o.......o.......x.......x.......o.......o...o...x...............o.......o.......x.......x.......o.....x.o.o.x...o...........x...o.......o.......x.......x.......o.......|-..----o|..x|..o|..x|..o|..x|..o|..x|..o|..x|..o|..x|..o|--------------</rhythm>
+	<buildup>tokinasai buildup</buildup>
+	<buildupRhythm>||+.|------------</buildupRhythm>
+	</song>
+  
+  <song name="GLITTER">
+	<title>Perfume - GLITTER</title>
+	<source>https://www.youtube.com/watch?v=H3RBn3MG8ms</source>
+	<rhythm>o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...*.:.*.:.*.:.*.:.*.:.*.:.*.:.*.x.o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o---x...o...x...o---x...o...x...o---x...o...x...o---x...:...::::o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...-----...........-----...........-----...........-----:.....-:.--o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...~...............~...............~.......~.......~.......o...o...</rhythm>
+	</song>
+	
+  <song name="Do_Or_Die_Flux_Pavilion">
+    <title>Flux Pavilion - Do Or Die</title>
+	<source>http://www.youtube.com/watch?v=RRNqRuyFSXk</source>
+    <rhythm>...........;;;;;;;;;;;;;;;x++...........x...:....:...x...:......:...x...:......:...x...:.....:...x...:.:.:.:.:.x.......x.......x.......x.......x++.............x...:.....:...x...:...:...x...:....:...:...x...:....:...:.:.:.:.:.:.:.:.x...........x.x......x......x++...........x...:.....:...x...:.....:...x...:.....:...x...:.....:...x...:......:...x.......x.......x.......x.......x++.............x:::::;::;::::x:::::;::;::::x:::::;::;::::x:::::;::;::::x::::;::;::::x.........</rhythm>
+  </song>
+
+	<song name="cleverest_loop">
+		<title>Shreddie Mercury - Mount Cleverest</title>
+		<source>https://soundcloud.com/jonathankanemusic/mount-cleverest-extendo</source>
+		<rhythm>x...o--.x...o.:.x.:.o...x...o...x...o.-.x...o..:x.:.o.:.x...o...x...o--.x...o.:.x.:.o...x...o...x...o.x..x..o.:x.:x.o.......::::</rhythm>
+		<buildup>cleverest_buildup</buildup>
+		<buildupRhythm>x...x...x...x...x...x...x...x...x...x...x...x...x...x...x...+...</buildupRhythm>
+	</song>
+	
+	<song name="spectrum_loop">
+		<title>Zedd - Spectrum (ft. Matthew Koma)</title>
+		<source>https://soundcloud.com/zedd/spectrum</source>
+		<rhythm>x.......x.......x.......x.......x.....-.x.o.-.o.x...:...x.......o...o...x.-...-.o...x...x.-.....x...x...x:-:-:-:x:-:-:-:x.......x.....o.x...o...x.....o.x...o...x.....-.x.o.-.o.x.-.o.-.x.......o...o...x.-...-.o...x...x.-...-.o...:...o...:...o.......x.......x.......x.......x.......x.......x.....-.x.o.-.o.x...:...x.......o...o...x.-...-.o...x...x.-.....x...x...x:-:-:-:x:-:-:-:x.......x.....o.x...o...x.....o.x...o...x.....-.x.o.-.o.x.-.o.-.x.......o...o...x.-...-.o...x...x.-...-.o...:...o...:...o.......x.......</rhythm>
+		<buildup>spectrum_buildup</buildup>
+		<buildupRhythm>+.......................o.......</buildupRhythm>
+	</song>
+	
+  <song name="loop_iremember">
+    <title>Tristam - I Remember</title>
+	<source>https://www.youtube.com/watch?v=GX90dr8ldSw</source>
+    <rhythm>x.......x.-.-.-.o.-.-.-.x.-.....o.......x.-...-.-.o.-.-.-.x.-.-.-.o.......x...:...o.......x.........o...-.-.x.-.-.-.o.......x.......o.......x...-.-.-.o...-.-.x.-.....o.......x.-.-.-.o.-.-.-.x...-.-.-.o.......x...:...o.......x.......o...-.-.x...-.-.-.o.......x...-.-.o.......x.-.-.-.o.-.-.-.x...-.-...o.......x.-.-.-.o.-.-.-.x.-.-.-.o.........x...:...o.......x.......o...-.-.x.-.-.-.o.........x.......</rhythm>
+    <buildup>buildup_iremember</buildup>
+    <buildupRhythm>-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.........-...-.-..</buildupRhythm>
+  </song>
+
+</songs>

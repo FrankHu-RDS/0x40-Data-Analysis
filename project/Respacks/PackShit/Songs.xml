@@ -1,0 +1,74 @@
+<songs>
+  <song name="loop_Sunrise">
+    <title>Klaypex - Sunrise</title>
+	<source>http://www.youtube.com/watch?v=rb9KLEGjW6A</source>
+    <rhythm>o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x:::o...x:::o...x:::o...x...o...x...o...x...o...x...o...x...o...x:::o...x:::o...x:::o...x...o...x...o...x...o...x...+.......</rhythm>
+  </song>
+
+  <song name="loop_MustBeTheFeeling">
+    <title>Nero - Must Be The Feeling (Delta Heavy Remix)</title>
+    <source>http://www.youtube.com/watch?v=9W04IKR1E2M</source>
+    <rhythm>.ooooooooooo+.o.xxxxx.xx.xxxxxo..ooooooooooo+.o.xxxxx.xx.xxxxxo..ooooooooooo+.o.xxxxx.xx.xxxxxo..ooooooooooo+.o.:...:...:...:....x.ooooo.ooo+.o.xxxxx.xx.xxxxxo..x.oooo.oooo+.o.xxxxx.xx.xxxxo+..x.ooooo.ooo+.o.xxxxx.xx.xxxxxo..x.oooo.oooo+.o.:...:...:...:......o.oo.oooo+.o.x..xxx..xxx.x.o....o.oo.oooo+.o.xooo.o+..o+........o.oo.oooo+.o.x..xxx..xxx.x.o....o.oo.oooo+.o.:...:...:.......</rhythm>
+    <buildup>build_MustBeTheFeeling</buildup>
+    <buildupRhythm>+...x...</buildupRhythm>
+  </song>
+
+  <song name="loop_GoofyGoober">
+    <title>Mike Simpson - The Goofy Goober Song</title>
+	<source>http://www.youtube.com/watch?v=qqHJ0DZwGjI</source>
+    <rhythm>o:x:o:x:o:x:o:x:o:x:o:x:o:x:o:+.</rhythm>
+    <buildup>build_GoofyGoober</buildup>
+    <buildupRhythm>-.-..--+.</buildupRhythm>
+  </song>
+
+  <song name="loop_ShadowDancing">
+    <title>Andy Gibb - Shadow Dancing</title>
+    <source>http://www.youtube.com/watch?v=mcHlL6PR5NU</source>
+    <rhythm>o..+x..+o..+x..+o..+x..+o..+x..+o..+x..+o..+x..+o..+x..+o..+xxxxo..+x..+o..+x..+o..+x..+o..+x..+o..+x..+o..+x..+o..+x..xx.o.o.o.o..+x..+o..+x..+o..+x..+o..+x..+o..+x..+o..+x..+o..+x..xx.o.o.o.o..+x..+o..+x..+o..+x..+o..+x.xxo..+x..+o..+x..+o..+x..+o.o.o.o.</rhythm>
+  </song>
+
+  <song name="loop_RhinestoneEyes">
+    <title>Gorillaz - Rhinestone Eyes</title>
+	<source>http://www.youtube.com/watch?v=yYDmaexVHic</source>
+    <rhythm>o...x..oo.:.x...o...x..oo.:.x...o...x..oo.:.x...o...x..oo.-.x...</rhythm>
+    <buildup>build_RhinestoneEyes</buildup>
+    <buildupRhythm>...xxxx</buildupRhythm>
+  </song>
+
+  <song name="loop_BecomingInsane">
+    <title>Infected Mushroom - Becoming Insane (Album Mix)</title>
+	<source>http://www.youtube.com/watch?v=kipooHI1NGc</source>
+    <rhythm>x.+.x.+.||||o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..o+..x.+.</rhythm>
+  </song>
+
+  <song name="loop_Bonfire">
+    <title>Knife Party - Bonfire</title>
+	<source>http://www.youtube.com/watch?v=e-IWRmpefzE</source>
+    <rhythm>o:::::::x.-.-.-.o...o...x...o...o+......x.-.-.-.o...o...x...+...o+o+o+o+x.-.-.-.o.:.:.:.x...o...o...x.+.x+x+x+x+x+x+x+x+x.+.x.+.</rhythm>
+    <buildup>build_Bonfire</buildup>
+    <buildupRhythm>o...x...o.:.x.:.o...x...o.:.x.:.o...x...o.:.x.:.o...x...o.:.x.:.o.xxxx.x.x.x.x.x.o.xxx.x.x.x.x.x.||||||||||||||||+...o...o...+...</buildupRhythm>
+  </song>
+
+  <song name="loop_ReturnoftheTres">
+    <title>Delinquent Habits - Return of the Tres</title>
+	<source>http://www.youtube.com/watch?v=mX1xyxWkmw0</source>
+    <rhythm>o.....o.:.x.o.:.o.x.:oo.:.x.o.:.o.x.:.o.:.x.o.:.o.x.:oo.:.x.o.:.o.x.:.o.:.x.o.:.o.x.:oo.:.x.o.:.o.x.:.o.:.x.o.:.o.x.:oo.:.x.o...</rhythm>
+  </song>
+
+  <song name="loop_GardenParty">
+    <title>blarsa - Garden Party</title>
+	<source>http://www.newgrounds.com/audio/listen/199965</source>
+    <rhythm>o.::o...o::.o::.o.::o...o::.o::.o.-.o...o::.o:-.o...o...+...x...o.::o...o::.o::.o.::o...o::.o::.o.-.o...o::.o--.x--.x-.x---xo+..o.::x...o::.x::.o.::x...o::.x::.o.-:x...o::.x...o...+...o.x.x...o.::x...o::.x::.o.::x...o::.x::.o.-.x...o::.x::.x...x...+...x...o.::o...o::.o::.o.::o...o::.o::.o.-.o...o::.o::.o--.x-.-o-.-x..-o--.x-.-o--.x-..o:::x---ooooxxxx</rhythm>
+    <buildup>build_GardenParty</buildup>
+    <buildupRhythm>+x::::::------||||||x+x+x+x+x+x+x+...</buildupRhythm>
+  </song>
+
+  <song name="loop_PowersofKryptonite">
+    <title>dj BC - Powers of Kryptonite</title>
+	<source>http://www.djbc.net/mashes/kryptonite/</source>
+    <rhythm>o:xo::x.o:xo:ox.o:xo::x:o:xo:ox.o:xo::x.o:xo:ox.o:xo::x:o:xo:ox.o:xo..x.o:xo:ox-------+.........o.xo..x.o.xo.ox.o.xo..x.o.xo.ox.o.xo..x.o.xo.ox.o.xo..x.o.xo.ox.o.xo..x.o.xo.ox.o.xo..x.o.xo.ox.o.xo..x.o.xo.ox.o.xo..x.o.xo.ox.o.xo..x.o.xo.ox.o.xo..x.o.xo.ox.o.xo..x.o.xo.ox.x+.|x+.|x+.x+x--</rhythm>
+    <buildup>build_PowersofKryptonite</buildup>
+    <buildupRhythm>.:::</buildupRhythm>
+  </song>
+  
+</songs>

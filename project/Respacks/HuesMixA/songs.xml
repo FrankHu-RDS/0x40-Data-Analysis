@@ -1,0 +1,89 @@
+<songs>
+  <song name="loop_Omen">
+    <title>The Prodigy - Omen</title>
+    <source>http://www.youtube.com/watch?v=zsV9wbTFvDE</source>
+    <rhythm>x.x.o...x.o.....x...o...x.o....ox...o...x.o.....x...o.o.x.o.oooox.o.o...x.o.....x...o...x.o....ox...o...x.o.....x...o.o.x.o.xxox.xxxo...x.o.....x...o...x.o....ox...o...x.o.....x...o.o.x.o.oooox.o.o...x.o.....x...o...x.o....ox...o...x.o.....x...o.o.x.o.xxoox...o...x..oxxo.x.o.o...x..oxxo.x.x.o..ox.o....ox...o.o.x.o.----x.-.o...x..oxxo.x.o.o...x..oxxo.x.x.o..ox.o....ox...o..o..o.oooo</rhythm>
+    <buildup>build_Omen</buildup>
+    <buildupRhythm>:.:.:....:.:+...o...x.o.....x...o.o.x.o...x.</buildupRhythm>
+  </song>
+  
+  <song name="loop_FromMyEyes">
+    <title>Phetsta - From My Eyes</title>
+    <source>http://www.youtube.com/watch?v=-paV56tKayw</source>
+    <rhythm>o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x...xxo.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...o...o...o...o...o---o-------x+..</rhythm>
+  </song>
+  
+  <song name="loop_BlackPanther">
+    <title>Crystal Castles - Black Panther</title>
+    <source>http://www.youtube.com/watch?v=zQXHAPf5ijQ</source>
+    <rhythm>o.:.x.::o.:.x.::o.:.x.::o.:.x.:.o.:.x.::o.:.x.::o.:.x.::o.:.x.:.o.:.x.::o.:.x.::o.:.x.::o.:.x.:.o.:.x.::o.:.x.::o.:.x.::o.:.x.:.</rhythm>
+  </song>
+  
+  <song name="loop_RunAway">
+    <title>Submatik - Run Away</title>
+    <source>http://www.youtube.com/watch?v=dxztDhrrXaY</source>
+    <rhythm>o...x.o.....x...o...x.....o.x.o.o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x.o.o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x.o.o...x.....o.x...o...x.....o.x...o...x.o...o.x.....o.x.....o.x.o.o...x.....o.x.....o.x.....o.x.x.</rhythm>
+  </song>
+  
+  <song name="loop_Chansond'Automne">
+    <title>Chris Christodoulou - Chanson d'Automne</title>
+    <source>http://www.youtube.com/watch?v=iSnOWqTPUNQ</source>
+    <rhythm>o.......x.....o.....o...x.......o.....o.x.....o.....o...x.o-----o.o.o.o.x.....o.....o...x.......o.o...oox...o.....xxo...xoo.o.x.</rhythm>
+  </song>
+  
+  <song name="loop_Moan">
+    <title>Trentemoller - Moan</title>
+    <source>http://www.youtube.com/watch?v=_LuYdnPy8tA</source>
+    <rhythm>o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o......+o.......o...o...o...o...o...o...o...o...o...o...o...o...o...o...o.......</rhythm>
+  </song>
+  
+  <song name="loop_ClearMayhem">
+    <title>Faskil - Clear Mayhem (Grid Systems Carte Blanche Remix)</title>
+    <source>https://www.youtube.com/watch?v=A7ZQ6ZBdDJQ</source>
+    <rhythm>o...o...o...o...o...o...o...o...+...............o...x...o...o.x.o...x.:.o...x...o...x...o...o.x.o...x.:.o...x.x.o...x...o...o.x.o...x.:.o...x...o...x...o...o.x.o...x.:.o...x.x.o...x...o...o.x.o...x.:.o...x...o...x...o...o.x.o...x.:.o...x.x.o...x...o...o.x.</rhythm>
+  </song>
+  
+  <song name="loop_Duvet">
+    <title>Boa - Duvet</title>
+    <source>https://www.youtube.com/watch?v=4-PkAQcuZOw</source>
+    <rhythm>o......o.oo.....o......o.oo.....o......o.oo.....x......o.oo.....</rhythm>
+  </song>
+  
+  <song name="loop_MoneyTrees">
+    <title>Kendrick Lamar - Money Trees</title>
+    <source>https://www.youtube.com/watch?v=whyRZ1zzIRM</source>
+    <rhythm>x..o..o.x...o...x..o..o.x...o...x.o.....x...o..ox..o.xo.x...o...x..o..o.x...o...x..o..o.x...o...x.o.....x...o..ox..o.xo.x...o...</rhythm>
+  </song>
+  
+  <song name="loop_Timeless">
+    <title>PrototypeRaptor - Timeless</title>
+    <source>https://www.youtube.com/watch?v=IPriPTbCf88</source>
+    <rhythm>o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...xoo.o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...</rhythm>
+  </song>
+  
+  <song name="loop_Intimate">
+    <title>Crystal Castles - Intimate</title>
+    <source>https://www.youtube.com/watch?v=FBsEoOM3dkU</source>
+    <rhythm>o.:.x.:.o.:.x.:.o.:.x.:.o.:.x.:.o.:.x.:.o.:.x.:.o.:.x.:.o.:.x.:.o.:.x.:.o.:.x.:.o.:.x.:.o.:.x.:.o.:.x.:.o.:.x.:.o.:.x.:.o.:.x.:...:.x.:...:.x.:...:.x.:...:.x.:...:.x.:...:.x.:...:.x.:...:.x.:...:.x.:...:.x.:...:.x.:...:.x.:...:.x.:...:.x.:...:.x.:...:.x.:.</rhythm>
+  </song>
+  
+  <song name="loop_Vibrate(reversed)">
+    <title>Outkast - Vibrate (reversed)</title>
+    <source>https://www.youtube.com/watch?v=R_toHjogc_s</source>
+    <rhythm>o..ox.o.o..ox.o.o..oxxo.o..ox.o.o..ox.o.o..ox.o.o..oxxo.o..ox.o.</rhythm>
+  </song>
+  
+  <song name="loop_MissYou">
+    <title>Nhato - Miss You</title>
+    <source>https://www.youtube.com/watch?v=bZQAuaeCtiM</source>
+    <rhythm>o.+.o...o...o...o...o...o...o...o.:.o.:.o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o...o.+.o...o...........+...o...o...o...o...o...o...o...o...o.-.-.-.........o..o..o...x...o.............+...o...o...o...o...o...o...o...o.o.o.+.............</rhythm>
+    <buildup>build_MissYou</buildup>
+    <buildupRhythm>::::::::::::</buildupRhythm>
+  </song>
+  
+  <song name="loop_PropaneNightmares">
+    <title>Pendulum - Propane Nightmares</title>
+    <source>https://www.youtube.com/watch?v=y2j5uMYTnDE</source>
+    <rhythm>o.x..ox.o.x..ox.o.x..ox.o.x..xx.o.x..ox.o.x..ox.o.x..ox.o.x..xx.o.x..ox.o.x..ox.o.x..ox.o.x..xx.o.x..ox.o.x..ox.o.x..ox..x..x.x.o.x..ox.o.x..ox.o.x..ox.o.x..xx.o.x..ox.o.x..ox.o.x..ox.o.x..xx.o.x..ox.o.x..ox.o.x..ox.o.x..xx.o.x..ox.o.x..ox.o.xxxxxxxxxxxxxxo..ox..oo.oox...o..ox..oo.oox.xxo..ox..oo.oox...o..ox..oo.oox.xxo..ox..oo.oox...o..ox..oo.oox.xxo..ox..oo.oox...o..ox..o.xoox.o.</rhythm>
+  </song>
+</songs>

@@ -1,0 +1,63 @@
+﻿<songs>
+  <song name="Netsky - Puppy">
+    <title>Netsky - Puppy</title>
+	<source>http://www.youtube.com/watch?v=FU4cnelEdi4</source>
+    <rhythm>o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...</rhythm>
+    <buildup>Netsky - Puppy (intro)</buildup>
+    <buildupRhythm>..................................................................................................................................................................................................................................................................-..:......:....-...:.......:...-...:.......:...-...:......:...-...:.......:...-....:......:...-....:......:....-...:.......:...</buildupRhythm>
+  </song>
+  <song name="Blake McGrath- Motion Picture (Pegboard Nerds Remix)_Loop">
+	<title>Blake McGrath- Motion Picture (Pegboard Nerds Remix)</title>
+	<source>http://www.youtube.com/watch?v=8MZ5aGvjjJI</source>
+	<rhythm>o...x...o...x...o...x...o...x...o...x::.o...x..:o|||||||||||-.-.o...x...o...x...o...x...o...x...o...x::.o...x..|o|||||||||||||-.o..:x:.:o...x...o...x:.:o---x...o...x::.o...x..:o|||||||||||-.-.o..:x:.:o...x...o...x:..o---x...o...x::.o...x..:+...............</rhythm>
+	<buildup>Blake McGrath- Motion Picture (Pegboard Nerds Remix)_Build</buildup>
+	<buildupRhythm>-...-...-...-...-...-...-...-...-...-...-...-...-...-...-...-...-:::-:::-:::-:::-:::-:::-:::-:::---------------------+..........</buildupRhythm>
+  </song>
+  <song name="lrad">
+    <title>Knife Party - LRAD</title>
+	<source>https://www.youtube.com/watch?v=uYE3BSh2YJA</source>
+    <rhythm>o..:o.:.o.:.o.:.o..:o.:.o.:.+...o..:o.:.o.:.o.:.o..:o.:.o.:.o.-.o..:o.:.o.:.o.:.o..:o.:.o.:.+...o..:o.:.o.:.o.:.x...x...x...x...</rhythm>
+  </song>
+  <song name="hues_nieve_loop">
+    <title>Oscillator Z - Nieve</title>
+	<source>https://soundcloud.com/oscillatorz/oscillator-z-nieve</source>
+    <rhythm>o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...o...x.....o.x...</rhythm>
+    <buildup>hues_nieve_intro</buildup>
+    <buildupRhythm>------------------------------+++</buildupRhythm>
+  </song>
+  <song name="Diversa - Crow (VIP)_Loop">
+    <title>Diversa - Crow (VIP)</title>
+	<source>https://www.youtube.com/watch?v=_X62Iazwwko</source>
+    <rhythm>o...:...x...ooo.....:.o.x...:...o...:...x.o.o.o.....:.o.x...:...o...:...x...ooo.....:.o.x...:...o...:...x..x..o.:.o.:.o.x...:...o...:...x...ooo.....:.o.x...:.o.o...:...x.o.o.o.....:.o.x.o.:...o...:...x...ooo.....:.o.x...:...o...:...x..x..o...o.:.o.x...:...o.x.:...x...ooo.....:.o.x...:.o.o.x.:...x.o.o.o.....:.o.x...:...o.o.:...x...ooo.....:.o.x...:...o.o.:...x..x..o...o.:.o.x...:...o.x.:...x...ooo.....:.o.x...:...o.x.:...x.o.o.o.....:.o.x.o.:...o.o.:...x...ooo.....:.o.x...:...o...:...x..x..o...o.:.o.x...+...</rhythm>
+    <buildup>Diversa - Crow (VIP)_Build</buildup>
+    <buildupRhythm>o..x..o.x..o..x.</buildupRhythm>
+  </song>
+  <song name="bignic-help">
+    <title>Bignic - Help</title>
+	<source>http://www.youtube.com/watch?v=tqLgJ9puo_c</source>
+    <rhythm>o...:..x...:..o...:..x...:..o...:..x...:..o...:..x...:..o...:..x...:..o...:..x...:..o...:..x...:..o...:..x...:..o...:..x...:..o...:..x...:..o...:..x...:..o...:..x...:..o...:..x...:..o...:..x...:..o...:..x...:..o...:..x...:..</rhythm>
+    <buildup>bignic-help-buildup</buildup>
+    <buildupRhythm>----------------------------------------------------------------------------------------------------------.---.---.---.---.---.---.---.---.---.---.---.---.-.-.-.-.-.-.-.-.-.-.+...</buildupRhythm>
+  </song>
+  <song name="01 Want You Gone">
+    <title>Aperture Science Psychoacoustics Laboratory - Want You Gone</title>
+	<source>https://www.youtube.com/watch?v=3fVUU7Drv2I</source>
+    <rhythm>o...o...x...o.o...o.o...x.......o...o...x...o.o...o.o...x.......o...o...x...o.o...o.o...x.......o...o...x...o.o...o.o...x...||||</rhythm>
+    <buildup>02 Want You Gone</buildup>
+    <buildupRhythm>....o.......x.....x..x.....x........o....ox..........xo....x...x.x..........................+......</buildupRhythm>
+  </song>
+  <song name="01 everything_except">
+    <title>S0LUS - Everything Except</title>
+	<source>https://soundcloud.com/s0lus/everything-except</source>
+    <rhythm>o.......x...........o...x.......o.......x...........o...x.......o.......x...........o...x.......o.......x...........o.x...o.x...o.......x...........o...x.......o.......x...........o...x.......o.......x...........o...x.......o.......x...........o...x.|||...</rhythm>
+    <buildup>02 everything_except</buildup>
+    <buildupRhythm>:...:...:...:...:...:...:...:...:...:...:...:...:...:...:...:...</buildupRhythm>
+  </song>
+  <song name="KOAN Sound &amp; Asa - Starlite">
+    <title>KOAN Sound &amp; Asa - Starlite</title>
+	<source>https://www.youtube.com/watch?v=1JjdRtS8B0M</source>
+    <rhythm>o...x:::::x::::::o.o.x::::::x::::::o.:..x:::::x::::::o.:..x.:-.:-----o.:..x::::::x::::::o...x::::::x::::::o...x..:.:x...:.:x..:.:x...:.:x:o.o.:.x::::::x::::::o.o.x::::::x::::::o.:..x:::::x::::::o.|...::..:-----o.:::x.o.:::x...o.o...x..----x...--o....x..o....x...:.:x..:.:x...:.:x:o.o...x::::::x::::::o.o.x::::::x::::::o....x:::::x:::::o...x::::::x::----o.:.x::::::x::::::o...x:::::x::::::o.:.x...:.:x...:.:x...:.:x...:.:x:o.o.:..x::::::x:::::o.o.x::::::x::::::o....x::::::x::::::o.|.x.....:-----o...x..o..:x....o.o...x...---x..:::.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.:.o....o...x...:::o...x....o.x..::o:..o....o...x...:::x...x.o....x.o....x.o...o....x...::o...x....o.x...::x:.o.o.o...x...:::x...:.:x...:.:x.o.o.o....o...x....::x...x..o.oox....o...o....o...x...:::x...x|o....x.o....x.o...o....x...::o....x...o..x...::x.o.o.o...x..:.:x...:.:x...:.:x.:.:.:.</rhythm>
+    <buildup>KOAN Sound &amp; Asa - Starlite (Build-up)</buildup>
+    <buildupRhythm>......:...:...:....:...:...:...:...</buildupRhythm>
+  </song>
+</songs>

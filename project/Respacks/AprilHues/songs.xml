@@ -1,0 +1,46 @@
+<songs>
+  <song name="PREPSONG">
+    <title>Prepsong</title>
+    <rhythm>xx.x.xx.o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...x...x...xx.x.xx.o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...x...x...</rhythm>
+  </song>
+  <song name="rickroll">
+    <title>Rick Astley - Never Gonna Give You Up</title>
+    <rhythm>o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...ooooxx-.</rhythm>
+    <buildup>rickroll_buildup</buildup>
+    <buildupRhythm>o.o.o.o.ooo</buildupRhythm>
+  </song>
+  <song name="PREPSONG_VOX">
+    <title>Prepsong</title>
+    <rhythm>o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...x...x...xx.x.xx.o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...o...x...x...x...xx.x.xx.</rhythm>
+  </song>
+  <song name="loop_hood">
+    <title>DMX - Where Da Hoot At</title>
+    <rhythm>o...x...o.o.x.o.-...x...o.o.x.o.-...x...o.o.x.o.-...x...o.o.xooo</rhythm>
+  </song>
+  <song name="loop_knishes">
+    <title>Ratboy Genius - Potato Knishes</title>
+    <rhythm>o.......o.......o.......o.......o.......o...o...o...o...o.......o.......o.......o.......o.......o.......o...o...o...o...o...o...o.......ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.o.o.ooo.o.o.ooo.o.o.ooo.o.o.ooo.o.o.ooo.ooo.o.o.o.o.o.o.o.o.o.o.o.o.o.o.ooo.o.o.o.o.o.o.o.o.o.o.o.o...</rhythm>
+  </song>
+  <song name="sanik_escape">
+    <title>SA2 OST - Escape from the City</title>
+    <rhythm>o.xo.ox.o.xo.ox.o.xo.ox.o.xo.ox.o.xo.ox.o.xo.ox.o..o..o...x.o.x.</rhythm>
+    <buildup>sanik_escape_buildup</buildup>
+    <buildupRhythm>...o..o.‑.o.o.o.o..</buildupRhythm>
+  </song>
+  <song name="trap">
+    <title>Trap</title>
+    <rhythm>x.---.---.-.-...o....o...o...x.o.-..-.-.---.------x....x.....xo....x....o...xx..-..--.----...-.-.-.....x....x........o.x...x..xxo......x....o...x...o...x....o...x...o...x....o...x...o....x-..o--.x...o....o...o...o...o...o....o...o...o....o...o...o...o....o...o...o...o....x-.--...-.---...-....-.-.-.-.-.-.x.o..-.---.-.-.xo--.-.-----.-.-.ox.</rhythm>
+    <buildup>trap_buildup</buildup>
+    <buildupRhythm>...........o...................................................................</buildupRhythm>
+  </song>
+  <song name="rautaketju">
+    <title>Rautaketju</title>
+    <rhythm>o---x...o...x...o---x...o...x...o---x...o..x....o...x...o...x...o---x..o....x...o---x...o...x...o---x..o...x....o...x..o...-.--o...x...o...x...o---x...o...x...o---x...o...x....o...x..o....x...o---x..o...x...o.---x..o...x....o---...o...x...o..xoxo.x........</rhythm>
+    <buildup>rautaketju_buildup</buildup>
+    <buildupRhythm>xxxxxxxx</buildupRhythm>
+  </song>
+  <song name="Steamshovel">
+    <title>Steamshovel</title>
+    <rhythm>o.-o.o-oo.--oo-oo.-o.o-oo.--xx--o.-o.o-oo.--oo-oo.-o.o-oo.--xx--o.-o.o-oo.--oo-oo.-o.o-oo.--xx--o.-o.o-oo.--oo-oo.-o.o-oo.--xx--o.-o.o-oo.--oo-oo.-o.o-oo.--xx--o.-o.o-oo.--oo-oo.-o.o-oo.--xx--o.-o.o-oo.--oo-oo.-o.o-oo.--xx--o.-o.o-oo.--oo-oo.-o.o-oo.--xx--o.-o.o-oo.-o.o-oo.--oo-oo.-o.o-oo.--xx--o.--xx--o.-o.o-oo.--oo-oo.-o.o-oo.--xx--o.-o.o-oo.--oo-oo.-o.o-oo.--xx--o.-o.o-oo.--oo-oo.-o.o-oo.--xx--o.-o.o-oo.--oo-oo.-o.o-oo.--xx--</rhythm>
+  </song>
+</songs>
