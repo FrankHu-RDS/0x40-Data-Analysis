@@ -15,7 +15,7 @@ Basically attempting to correlate an audio feature to a beat, and then fit a mod
 
 An issue reg audio extraction is that the the audio extraction doesn't necessarily correlate to the beats exactly, so there's some tweaking there that needs to be done. 
 
-Also the data is not being parsed properly and SKLearn is throwing an error when trying to fit the model with the features/labels. Not sure what is the problem yet. 
+Also the data is being parsed, but SKLearn is throwing an error when trying to fit the model with the features/labels. Not sure what is the problem yet. 
 
 ## Libraries
 
