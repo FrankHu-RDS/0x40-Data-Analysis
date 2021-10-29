@@ -1,8 +1,7 @@
 <songs>
   <song name="loop_BrokenMirror">
     <title>Buckethead - Broken Mirror</title>
-    <source>http://www.youtube.com/watch?v=YTWbRCFV7K0</source>
-    <rhythm>o...x..o.oo.x...o...x..o.oo.xo.oo...x..o.oo.x...o...x..o.oo.xo.xo..ox...o.o.xo..o...x..o..o.xo..o..ox..o.oo.x...o..ox..o.oo.xo--</rhythm>
+<rhythm>o...x..o.oo.x...o...x..o.oo.xo.oo...x..o.oo.x...o...x..o.oo.xo.xo..ox...o.o.xo..o...x..o..o.xo..o..ox..o.oo.x...o..ox..o.oo.xo--</rhythm>
     <buildup>build_BrokenMirror</buildup>
     <buildupRhythm>~.......~.......~.......~.......</buildupRhythm>
   </song>
