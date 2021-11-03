@@ -11,13 +11,22 @@ Basically processing the xml files into hashmaps so as to attempt to correlate t
 I've been trying to utilize random forests against the features/labels. 
 Basically attempting to correlate an audio feature to a beat, and then fit a model against that with not much luck. I think there's only a few things wrong with it before it'll fit to a tree. But since the data has been mostly wrangled, attempting to fit it to a CNN or some other data model should be easier. 
 
-## Known Issues
+## Terminal app
+![terminal](images/terminal.png)
 
-An issue reg audio extraction is that the the audio extraction doesn't necessarily correlate to the beats exactly, so there's some tweaking there that needs to be done. 
+Pretty self explanatory. Folder needs to have current path i.e. ./songs
 
-Also the data is being parsed, but SKLearn is throwing an error when trying to fit the model with the features/labels. Not sure what is the problem yet. So there needs to be some post processing on the data for SKLearn to be able to utilize it.
+Only 2 kinds of features and mix
+
+Currently 4 different beat frequencies
+
+Create beat maps in songs.xml file not working, just outputting to song_output file
+
+
+## Features to add
+Add different audio features and train neural nets more specifically on genres/features/more data.
+
 
 ## Libraries
-
 You'll need to figure out how to install librosa, numpy, sklearn, matplot, xml.dom.minidom. Depending on your OS it can be a pain in the ass to install. 
 
