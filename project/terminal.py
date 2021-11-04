@@ -24,7 +24,8 @@ from sklearn.neural_network import MLPClassifier
 from sklearn import preprocessing
 from sklearn.preprocessing import StandardScaler
 
-import xml.dom.minidom
+
+from xml.dom import minidom
 import os
 from os.path import exists
 from collections import defaultdict
@@ -230,7 +231,18 @@ def predict_with_feature(feature_type):
         print(res)
         beatmap_dictionary[feature_type][song_name] = res[:]
 
+
+'''
+<songs>
+  <song name="loop_ThisCityisKillingMe">
+    <title>Dusty Brown - This City is Killing Me</title>
+    <rhythm>o..:.:o.x...x...o.:.:.:.x.:.:.:.o.:.-.o.x...x.:.o...o...x...x...o..:.:o.x...x...o.+..o..x.:...o.o+.x-.o.x.x..x..o...x.:.:...:...o..:.:o.x...x...o.:.:.:.x.:.:.:.o.:.-.o.x...o.:.o.:.:.:.:...-+..o.:....x....o...o---x-.-x.....:.o...-.o.x...o.:.o...o.:.o...:.:.</rhythm>
+  </song>
+</songs>
+'''
 def create_beatmaps():
+    # just print it out
+    '''
     f = open("song_output.txt", "w")
     for song_name in song_dictionary.keys():
         beats = ''.join(beatmap_dictionary[feature_process][song_name])
@@ -238,7 +250,28 @@ def create_beatmaps():
         f.write(song_name + ' : ')
         f.write(beats)
         f.write('\n')
+    '''
+    root = minidom.Document()
+    xml = root.createElement('songs')
+    for song_name in song_dictionary.keys():
+        beat_map = ''.join(beatmap_dictionary[feature_process][song_name])
+        song_child = root.createElement('song')
+        song_child.setAttribute('name', song_name[0:len(song_name)-4])
 
+        title = root.createElement('title')
+        title_text = root.createTextNode(song_name[0:len(song_name)-4])
+        title.appendChild(title_text)
+        rhythm = root.createElement('rhythm')
+        rhythm_text = root.createTextNode(beat_map)
+        rhythm.appendChild(rhythm_text)
+        song_child.appendChild(title)
+        song_child.appendChild(rhythm)
+        xml.appendChild(song_child)
+    root.appendChild(xml)
+    xml_str = root.toprettyxml(indent ="\t") 
+    with open('./songs.xml', "w") as f:
+        f.write(xml_str) 
+    
 def choose_frequency():
     global curr_clf
     global curr_length
